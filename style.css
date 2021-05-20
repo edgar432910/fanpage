@@ -1,0 +1,9 @@
+@media(max-width:992px){
+    .mobileMenu{
+        position: fixed;
+        top:0;
+        bottom: 0;
+        margin: auto;
+    }
+
+}
